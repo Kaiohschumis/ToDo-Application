@@ -1,0 +1,5 @@
+package com.kaio.todo.repositories;
+
+public interface TodoRepository {
+
+}
